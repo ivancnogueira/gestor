@@ -5,7 +5,7 @@ import { useState } from "react";
 const contactInfo = [
   { icon: MessageCircle, label: "WhatsApp", value: "62 981773529", href: "https://wa.me/5562981773529" },
   { icon: Mail, label: "Email", value: "contato@ivannogueira.com.br", href: "mailto:contato@ivannogueira.com.br" },
-  { icon: Globe, label: "Website", value: "curriculo.ivannogueira.com.br", href: "https://curriculo.ivannogueira.com.br" },
+  { icon: Globe, label: "Website", value: "curriculo.ivannogueira.com.br", href: "https://gestor.ivannogueira.com.br" },
   { icon: Instagram, label: "Instagram", value: "@ivannogueira.mkt", href: "https://instagram.com/ivannogueira.mkt" },
 ];
 
