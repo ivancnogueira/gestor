@@ -4,7 +4,7 @@ import { Briefcase } from "lucide-react";
 const experiences = [
   {
     period: "Desde 2016",
-    role: "Freelancer em  Automações e Inteligencia Artificial",
+    role: "Especialista em  Automações e Inteligencia Artificial",
     company: "Unni Marketing",
     description: "Atuando com Automações em Geral: email marketing, automação de processos, otimização de fluxos de trabalho, integrações com apis de terceiros, desenvolvimento de scripts personalizados para automação de tarefas, criação de agentes de i.a, integrações com api oficial, desenvolvimento de bots para automação de interações com usuários.",
   },

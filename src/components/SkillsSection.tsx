@@ -28,6 +28,7 @@ const softwareSkills = [
   { name: "Nicochat", level: 95 },
   { name: "Gpt Make", level: 95 },
   { name: "Apis em Geral", level: 98 },
+  { name: "Email Marketing", level: 95 },
   { name: "Vibe Coding", level: 95 },
   { name: "Adobe Photoshop", level: 90 },
   { name: "Adobe Illustrator", level: 80 },
